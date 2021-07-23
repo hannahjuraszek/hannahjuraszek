@@ -11,7 +11,3 @@ myself on my good understanding of code flow, which really comes in handy with d
 # Learning
 I love learning about design patterns, up-and-coming technologies (.NET 5.0 I'm looking at you!), and
 really anything and everything regarding coding standards and common practices.
-
-# Collaboration Interests
-I would love to help out with tricky bugs! My skills primarily lie in C# now, but I would be willing and
-interested to explore outside of that.
